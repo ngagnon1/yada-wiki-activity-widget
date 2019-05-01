@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Yada Wiki Activity Widget
- * Plugin URI:  https://www.webtng.com/yada-wiki-documentation
+ * Plugin URI:  https://github.com/ngagnon1/yada-wiki-activity-widget
  * Description: This plugin provides an activity widget for yada wiki
  * Version:     1
  * Author:      Nathan Gagnon
